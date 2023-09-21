@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f6w4B7hmw5hpZqZpSurJGS/5RZQgnkI07h2OnSWqlULJ/PTaXJBhlIt+00QSu7DwCfgC3K3VbDU2bFyqp0I6aw==",
+  "success": true,
+  "projectFilePath": "c:\\dev\\Store\\Store.Domain\\Store.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vpxim\\.nuget\\packages\\flunt\\1.0.3\\flunt.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
